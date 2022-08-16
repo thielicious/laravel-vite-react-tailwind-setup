@@ -1,2 +1,2 @@
 # laravel9-vite3-react18-setup
-A setup environment using Laravel, ViteJS and ReactJS.
+A working scaffolding setup with the latest versions of Laravel, ViteJS and ReactJS run via a blade file. Mostly just for me so I can always clone and start off right away with new projects.
