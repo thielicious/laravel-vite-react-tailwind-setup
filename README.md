@@ -22,14 +22,20 @@ A working scaffolding setup with the latest versions of Laravel, ViteJS and Reac
 
 4. Do the boilerplate migration 
 
-```php artisan migrate```
+```
+php artisan migrate
+```
 
 5. Run Laravel dev server
 
-  `php artisan serve`
+```
+php artisan serve
+```
 
 6. Run React dev server
 
-  `npm run dev`
+```npm run dev```
 
 7. Have fun
+
+`\o/`
