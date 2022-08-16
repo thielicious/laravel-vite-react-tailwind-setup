@@ -22,7 +22,6 @@ DB_USERNAME=root
 DB_PASSWORD=pass123
 ```
 
-<br>
 4. Do the boilerplate migration 
 
 `php artisan migrate`
@@ -33,3 +32,4 @@ DB_PASSWORD=pass123
 
 6. Run React dev server
 `npm run dev`
+
