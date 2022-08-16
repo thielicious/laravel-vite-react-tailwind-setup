@@ -5,7 +5,8 @@ A working scaffolding setup with the latest versions of Laravel, ViteJS and Reac
 <br>
 1. Clone this repo
 <br>
-2. Open command tool and install dependencies in the root folder<br>
+2. Open command tool and install dependencies in the root folder
+
 `composer install` and `npm install`
 <br>
 3. Setup your database in the `.env` file, for example like:
