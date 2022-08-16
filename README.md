@@ -1,7 +1,7 @@
 # laravel9-vite3-react18-setup
 <br>
 
-A working setup with the latest versions of Laravel, ViteJS and ReactJS plus SASS and TailwindCSS run via a blade file. It's mostly just for me so I can always clone and start off right away with new projects. It is an empty project, so the only thing I did is a working boilerplate with an example component.
+A working setup with the latest versions of Laravel, ViteJS and ReactJS plus SASS and TailwindCSS run via a blade file. It was at first just for me so I can always clone and start off right away with new projects. It is an empty project so the only thing I did is a working tiny boilerplate with an example component.
 <br>
 
 ## Installation
