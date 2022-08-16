@@ -9,6 +9,7 @@ A working scaffolding setup with the latest versions of Laravel, ViteJS and Reac
 `composer install` and `npm install`
 <br>
 3. Setup your database in the `.env` file, for example like:
+
 ```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -17,6 +18,7 @@ DB_DATABASE=mydb
 DB_USERNAME=root
 DB_PASSWORD=pass123
 ```
+
 <br>
 4. Do the boilerplate migration 
 `php artisan migrate`
