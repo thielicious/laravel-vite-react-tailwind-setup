@@ -31,5 +31,6 @@ DB_PASSWORD=pass123
 `php artisan serve`
 
 6. Run React dev server
+
 `npm run dev`
 
