@@ -22,7 +22,7 @@ A working scaffolding setup with the latest versions of Laravel, ViteJS and Reac
 
 4. Do the boilerplate migration 
 
-  `php artisan migrate`
+```php artisan migrate```
 
 5. Run Laravel dev server
 
