@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	.body-bg { @apply bg-gray-700 text-teal-300 }
+}
+
+body {
+   @apply body-bg;
+
+   h1 { font-size: 1.5em;}
+
+   a {
+      text-decoration:underline;
+      &:hover {
+         color: white;
+      }
+   }
+   
+   p { @apply py-5 }
+}
