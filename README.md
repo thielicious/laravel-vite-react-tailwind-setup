@@ -34,8 +34,8 @@ php artisan serve
 
 6. Run React dev server
 
-```npm run dev```
+```
+npm run dev
+```
 
-7. Have fun
-
-`\o/`
+7. Have fun `\o/`
