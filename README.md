@@ -29,3 +29,7 @@ php artisan serve
 npm run dev
 ```
 7. Have fun `\o/`
+
+
+---
+I might as well consider updating it with additional stuff once in a while.
